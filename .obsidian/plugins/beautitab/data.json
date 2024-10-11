@@ -1,0 +1,26 @@
+{
+  "backgroundTheme": "transparent with shadows",
+  "customBackground": "",
+  "localBackgrounds": [],
+  "showTopLeftSearchButton": true,
+  "topLeftSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showTime": true,
+  "timeFormat": "24-hour",
+  "showGreeting": true,
+  "greetingText": "BOJAN'S VAULT",
+  "showInlineSearch": true,
+  "inlineSearchProvider": {
+    "command": "switcher:open",
+    "display": "Obsidian Core Quick Switcher"
+  },
+  "showRecentFiles": false,
+  "showBookmarks": true,
+  "bookmarkSource": "all",
+  "bookmarkGroup": "",
+  "showQuote": true,
+  "quoteSource": "Quoteable",
+  "customQuotes": []
+}

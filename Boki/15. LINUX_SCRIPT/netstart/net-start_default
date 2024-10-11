@@ -1,0 +1,12 @@
+#! /usr/bin/bash
+
+
+
+
+# net-start_default
+
+
+sudo virsh net-start default
+sudo virsh net-autostart default
+
+exit 0

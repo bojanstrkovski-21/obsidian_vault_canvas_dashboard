@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Colorizer
+Comment=Mabox Colorizer
+Keywords=
+StartupNotify=false
+Icon=colorizer
+TryExec=colorizer -s
+Exec=colorizer -s
+Categories=Settings;
+#NoDisplay=true

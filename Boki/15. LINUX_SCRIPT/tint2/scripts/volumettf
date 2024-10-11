@@ -1,0 +1,25 @@
+#!/bin/bash
+# Tint2 volume executor with ttf icons
+
+muted=$(LANG=C pactl list sinks | awk '/Mute/ { print $2 }')
+vol=$(LANG=C pactl list sinks | awk '/Volume:/ {printf "%s ",$5}' | cut -f1 -d ' ' | cut -f1 -d '%')
+
+if [[ $muted = "no" ]]; then
+    if [[ $vol -ge 80 ]]; then
+        echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    elif [[ $vol -ge 70 ]]; then
+            echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    elif [[ $vol -ge 60 ]]; then
+            echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    elif [[ $vol -ge 50 ]]; then
+            echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    elif [[ $vol -ge 30 ]]; then
+            echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    elif [[ $vol -ge 10 ]]; then
+            echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    elif [[ $vol -ge 0 ]]; then
+            echo "<sup><span size='xx-small'> $vol%</span></sup>"
+    fi
+else
+    echo "<sub><span size='xx-small'> $vol%</span></sub>"
+fi

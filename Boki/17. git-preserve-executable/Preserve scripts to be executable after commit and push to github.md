@@ -1,0 +1,1 @@
+Run this command in terminal after cd into the repository folder location: `git config core.filemode true`

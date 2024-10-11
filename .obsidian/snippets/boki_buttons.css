@@ -1,0 +1,17 @@
+.btnClass 
+{
+	width: 170px;
+	height: 170px;
+	font-size: 20px;
+	font-weight: 700;
+	color: #d3c6aa;
+	border: 2px solid #d3c6aa;
+	background-color: #2d353b;
+}
+
+.btnClass:hover {
+	  z-index: 100;
+  box-shadow: 0 4px 4px var(--button-box-shadow, rgba(210, 210, 210, 0.25)),
+    0 10px 10px var(--button-box-shadow, rgba(210, 210, 210, 0.22));
+  transform: translate3d(0px, -1.5px, 0px);
+}

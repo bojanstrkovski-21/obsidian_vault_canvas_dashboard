@@ -1,0 +1,16 @@
+{
+  "accentColor": "#348fd5",
+  "theme": "obsidian",
+  "cssTheme": "Border",
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "MCL Gallery Cards",
+    "boki-callouts",
+    "extended-colorschemes",
+    "boki_buttons"
+  ],
+  "baseFontSize": 15,
+  "showViewHeader": true,
+  "nativeMenus": false
+}

@@ -1,0 +1,18 @@
+.xfce4-panel#XfcePanelWindow {
+	border-radius: 15px;
+	-gtk-icon-shadow: none;
+}
+
+
+#whiskermenu-window {
+    background-color: #0E162F;
+}
+
+#whiskermenu-window treeview {
+    background-color: #0E162f;
+}
+
+#whiskermenu-window treeview:hover {
+    background-color: #5294e2;
+    border-radius: 3px;
+}
