@@ -21,7 +21,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linix_Script_Boki.md",
+                "file": "Boki/19. Zed editor install/Zed-editor-install.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1a3ffc999c7f17d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boki/18. Git-Bare repository/How To setup a bare git repository.md",
                 "mode": "preview",
                 "source": true
               }
@@ -38,16 +50,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "95089c138b8efccb",
-            "type": "leaf",
-            "state": {
-              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boki/14. The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md",
+                "file": "Boki/19. Zed editor install/Zed-editor-install.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boki/14. The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md",
+                "file": "Boki/19. Zed editor install/Zed-editor-install.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boki/14. The easiest way to install DWM - FAUN - Developer Community/The easiest way to install DWM - FAUN - Developer Community.md"
+                "file": "Boki/19. Zed editor install/Zed-editor-install.md"
               }
             }
           }
@@ -163,14 +168,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cd7e9525e0d10fe",
+  "active": "de651ae4b785bd7f",
   "lastOpenFiles": [
+    "Boki/18. Git-Bare repository/How To setup a bare git repository.md",
+    "Boki/19. Zed editor install/Zed-editor-install.md",
+    "Linix_Script_Boki.md",
+    "Boki/19. Zed editor install",
     "Devconnected/05. Productivity & Books/11. Other/The Official Raspberry Pi Handbook 2023.pdf.tar.gz",
     "Devconnected/05. Productivity & Books/11. Other/kG78uQ4V5RHXTfta.The Official Raspberry Pi Handbook 2023.pdf.tar.gz",
-    "Linix_Script_Boki.md",
-    "Boki/Git-Bare repository/How To setup a bare git repository.md",
     "BASH AND TIPS.md",
-    "Boki/Git-Bare repository",
+    "Boki/18. Git-Bare repository",
     "Boki/16. sublime-text/Sublime-text-4-short-cuts.md",
     "Boki/17. git-preserve-executable/Preserve scripts to be executable after commit and push to github.md",
     "Boki/17. git-preserve-executable",
@@ -193,8 +200,6 @@
     "Devconnected/05. Productivity & Books/11. Other/Linux Troubleshooting Bible.fHkvSZ-6.chm.part",
     "Devconnected/05. Productivity & Books/11. Other/Linux Troubleshooting Bible.chm",
     "Devconnected/05. Productivity & Books/11. Other/Linux System Administration.pdf",
-    "Devconnected/05. Productivity & Books/11. Other/Linux System Errors.doc",
-    "Devconnected/05. Productivity & Books/11. Other/Linux System Administration Recipes A Problem Solution Approach.pdf",
     "Devconnected/05. Productivity & Books/11. Other/Linux Cookbook recepies/logo.png",
     "Devconnected/05. Productivity & Books/03. Linux Pocket Guide/linux_pocket_guide-master/linuxpocketguide/photo3.gif",
     "Devconnected/05. Productivity & Books/03. Linux Pocket Guide/linux_pocket_guide-master/linuxpocketguide/photo2.png",
